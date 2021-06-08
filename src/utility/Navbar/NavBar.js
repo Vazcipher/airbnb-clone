@@ -19,7 +19,7 @@ class navBar extends Component {
                             <Link to="/" >airbnb</Link>
                             <ul id="nav-mobile" className="right">
                                 <li><Link>English</Link></li>
-                                <li><Link>Rs</Link></li>
+                                <li><Link>Rupees</Link></li>
                                 <li><Link>Become a Host</Link></li>
                                 <li><Link>Help</Link></li>
                                 <li><Link>Sign up</Link></li>
